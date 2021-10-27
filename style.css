@@ -1,0 +1,48 @@
+body {
+  background-color: bisque;
+}
+h1,h2,h3 {
+  text-align: center;
+}
+#wrapper {
+  width: 80%;
+  margin: auto;
+  background-color: aquamarine;
+  box-shadow: 20pt;
+  border-radius:15px;
+}
+div {
+  width: 90%;
+  margin: auto;
+}
+.itembox {
+  border: 2px solid purple;
+  border-radius: 10pt;
+  box-shadow: 5pt;
+  background-color: gainsboro;
+  color: cornflowerblue;
+  padding: 4pt;
+}
+.favorites {
+  border: 2pt solid red;
+  border-radius: 10pt;
+  box-shadow: 5pt;
+  background-color: lightgreen;
+  color: darkviolet;
+  padding: 4pt;
+}
+li {
+  background-color: lightpink;
+  list-style-type: circle;
+}
+nav ul li {
+  display:inline;
+}
+nav ul{
+  border: 2pt solid black;
+  border-radius: 10pt;
+  box-shadow: 5pt;
+  background-color: black;
+  text: white;
+  padding: 4pt;
+}
